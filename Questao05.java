@@ -24,7 +24,7 @@ public class Questao05 {
         }
         
         }
-        System.out.println("A quantidade de pessoas com idade maior ou igual a 18 anos é de " + pessoas +" e pessoas menores de 18 anos e de: "+pessoas1);
+        System.out.println("A quantidade de pessoas com idade maior ou igual a 18 anos é de " + pessoas +" e pessoas menores de 18 anos é de: "+pessoas1);
 
     ler.close();
     }
